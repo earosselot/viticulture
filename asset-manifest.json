@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/viticulture/static/css/main.f1923228.css",
+    "main.js": "/viticulture/static/js/main.cf998b73.js",
+    "static/js/453.5d7c5c74.chunk.js": "/viticulture/static/js/453.5d7c5c74.chunk.js",
+    "index.html": "/viticulture/index.html",
+    "main.f1923228.css.map": "/viticulture/static/css/main.f1923228.css.map",
+    "main.cf998b73.js.map": "/viticulture/static/js/main.cf998b73.js.map",
+    "453.5d7c5c74.chunk.js.map": "/viticulture/static/js/453.5d7c5c74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1923228.css",
+    "static/js/main.cf998b73.js"
+  ]
+}
