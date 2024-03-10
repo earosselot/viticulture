@@ -7,6 +7,22 @@
   pointer-events: none;
 }
 
+.dotBlue {
+  height: 25px;
+  width: 25px;
+  background-color: #5a75d4;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dotYellow {
+  height: 25px;
+  width: 25px;
+  background-color: #9f9533;
+  border-radius: 50%;
+  display: inline-block;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
